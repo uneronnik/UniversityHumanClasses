@@ -1,0 +1,6 @@
+D:\C#\UniversityHumanClasses\UniversityHumanClasses\bin\Debug\UniversityHumanClasses.exe.config
+D:\C#\UniversityHumanClasses\UniversityHumanClasses\bin\Debug\UniversityHumanClasses.exe
+D:\C#\UniversityHumanClasses\UniversityHumanClasses\bin\Debug\UniversityHumanClasses.pdb
+D:\C#\UniversityHumanClasses\UniversityHumanClasses\obj\Debug\UniversityHumanClasses.csprojAssemblyReference.cache
+D:\C#\UniversityHumanClasses\UniversityHumanClasses\obj\Debug\UniversityHumanClasses.exe
+D:\C#\UniversityHumanClasses\UniversityHumanClasses\obj\Debug\UniversityHumanClasses.pdb
